@@ -1,0 +1,6 @@
+db:
+    type: 'mysql'
+    host: 'localhost'
+    user: 'fUserMrktDB'
+    pass: '6gT3$lkgh#!kiTgf'
+    dbname: 'farmersMarketDB'

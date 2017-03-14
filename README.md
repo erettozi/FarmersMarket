@@ -29,6 +29,7 @@ Exporte o arquivo CSV para a base de dados
 Activate VirtualEnv
 
 	cd API/
+	virtualenv --python=/usr/bin/python3 rest
 	source rest/bin/activate
 
 Iniciando o WebService REST

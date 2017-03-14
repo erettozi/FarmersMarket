@@ -26,6 +26,11 @@ Exporte o arquivo CSV para a base de dados
 
 ##API
 
+Activate VirtualEnv
+
+	cd API/
+	source rest/bin/activate
+
 Iniciando o WebService REST
 
 	cd API/rest
